@@ -1,7 +1,9 @@
 # COMSC230
 Dataset Final Presentation
 
-Analysis of 2013 Men's French Open Dataset
+Analysis of 2013 Men's French Open Dataset:
+
+A comparative assessment between player match wins and the "ideal" 60% first serve percentage (FSP).
 
 Dataset source: https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics
 
