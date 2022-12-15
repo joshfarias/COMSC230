@@ -1,4 +1,4 @@
-# COMSC230
+# COMSC230 Final Project
 Dataset Final Presentation
 
 Analysis of 2013 Men's French Open Dataset:
